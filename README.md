@@ -6,11 +6,43 @@
 
 ## 🎮 Character Selection: Andreas Nababan 🎮
 
-![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zyd2V5OXd6cnd6bXRuMm9td3pqMm1tYmhzNjh3aTRueTVsMWs1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zyd2V5OXd6cnd6bXRuMm9td3pqMm1tYmhzNjh3aTRueTVsMWs1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Cat" width="280">
+</p>
 
-**Class:** Backend Sorcerer • **Level:** 21 • **Status:** Coffee Deprived • **Alignment:** Chaotic Good (Dark Mode)
+<p align="center">
+  <b>Class:</b> Backend Sorcerer &bull; <b>Level:</b> 21 &bull; <b>Status:</b> Coffee Deprived &bull; <b>Alignment:</b> Chaotic Good (Dark Mode)
+</p>
 
-<table align="center" style="border: none; background: transparent;"><tbody><tr><td width="55%" style="border: none; vertical-align: top;"><h3>🐱 Quick Inventory check:</h3><ul><li>🎒 <b>Active Buffs:</b> Dark Mode, Spotify Premium, Autocomplete</li><li>🔋 <b>Current Quest:</b> Trying to master Laravel 12 and DevOps without breaking production</li><li>🗺️ <b>Spawn Location:</b> Indonesia 🇮🇩</li><li>💬 <b>Ask me about:</b> Why my code works locally but crashes on server</li><li>💌 <b>Secret Weapon:</b> Copy-pasting from StackOverflow</li></ul></td><td width="45%" style="border: none; text-align: center; vertical-align: middle;"></td></tr></tbody></table>
+<p align="center">
+  <img src="https://geps.dev/progress/99?text=Caffeine%20Tolerance%20%E2%98%95" alt="Caffeine Tolerance" />
+  <br>
+  <img src="https://geps.dev/progress/85?text=StackOverflow%20Searching%20%F0%9F%94%8D" alt="StackOverflow Searching" />
+  <br>
+  <img src="https://geps.dev/progress/75?text=Bug%20Creation%20Rate%20%F0%9F%90%9B" alt="Bug Creation Rate" />
+  <br>
+  <img src="https://geps.dev/progress/10?text=Patience%20When%20Code%20Errors%20%F0%9F%A4%AF" alt="Patience Level" />
+</p>
+
+<table align="center" style="border: none; background: transparent;">
+  <tbody>
+    <tr>
+      <td width="60%" style="border: none; vertical-align: top;">
+        <h3>🐱 Quick Inventory check:</h3>
+        <ul>
+          <li>🎒 <b>Active Buffs:</b> Dark Mode, Spotify Premium, Autocomplete</li>
+          <li>🔋 <b>Current Quest:</b> Trying to master Laravel 12 and DevOps without breaking production</li>
+          <li>🗺️ <b>Spawn Location:</b> Indonesia 🇮🇩</li>
+          <li>💬 <b>Ask me about:</b> Why my code works locally but crashes on server</li>
+          <li>💌 <b>Secret Weapon:</b> Copy-pasting from StackOverflow</li>
+        </ul>
+      </td>
+      <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl6ZmxnMm82aGN5MDZ1MTA3MWphbmd0MTFocWc1NWFpaG1jcnIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" alt="Funny Cat Winking" width="160">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -32,9 +64,14 @@
 
 ## 📊 Realm Statistics
 
-  
+<p align="center">
+  <img height="175em" src="https://github-readme-stats-eight.vercel.app/api?username=AndreasNababan&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=AndreasNababan&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AndreasNababan&theme=dracula&hide_border=true)](https://github.com/AndreasNababan)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreasNababan&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -50,9 +87,14 @@
 
 **⭐ May the source be with you! ⭐**
 
-🍕 Free Pizza? (Click here)  
-
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNvdGk1MGt5ZGRqZ3ZsdjJ1aHhiZ2lrcThzbmQxeTFhd2psczB2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4KhV0vR3nSpvj30c/giphy.gif)  
-  
-Gotcha! No pizza, but here is a programmer rule:  
-*"If it compiles, it's good. If it runs, it's a miracle!"*
+<details>
+  <summary>🍕 Free Pizza? (Click here)</summary>
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNvdGk1MGt5ZGRqZ3ZsdjJ1aHhiZ2lrcThzbmQxeTFhd2psczB2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4KhV0vR3nSpvj30c/giphy.gif" width="160"/>
+    <br><br>
+    Gotcha! No pizza, but here is a programmer rule:
+    <br>
+    <i>"If it compiles, it's good. If it runs, it's a miracle!"</i>
+  </p>
+</details>
