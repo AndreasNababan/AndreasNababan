@@ -1,4 +1,4 @@
-<![CDATA[<!-- Fun Waving Header -->
+<!-- Fun Waving Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,11,15&height=180&section=header&text=Welcome%20to%20My%20Code%20Lair!%20%F0%9F%90%B1&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Andreas%20Nababan%20%7C%20Coffee-to-Bug%20Converter&descSize=15&descAlignY=52&descAlign=50" width="100%"/>
 </p>
@@ -100,20 +100,20 @@
 
 <p align="center">
   <a href="https://github.com/AndreasNababan">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AndreasNababan&show_icons=true&theme=dracula&hide_border=true&bg_color=1e1e2e&title_color=f5c2e7&icon_color=f5c2e7&text_color=cdd6f4&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasNababan&layout=compact&theme=dracula&hide_border=true&bg_color=1e1e2e&title_color=f5c2e7&text_color=cdd6f4&langs_count=8" alt="Top Languages"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=AndreasNababan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreasNababan&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AndreasNababan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreasNababan&theme=dracula&hide_border=true&background=1e1e2e&stroke=f5c2e7&ring=f5c2e7&fire=f38ba8&currStreakLabel=f5c2e7&sideLabels=cdd6f4&currStreakNum=cdd6f4&dates=a6adc8" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AndreasNababan&theme=dracula&hide_border=true" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AndreasNababan">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndreasNababan&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app?username=AndreasNababan&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -177,4 +177,3 @@
     <i>"If it compiles, it's good. If it runs, it's a miracle!"</i>
   </p>
 </details>
-]]>
