@@ -58,6 +58,44 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
+## 🏰 ACTIVE QUEST: PERSONAL PORTFOLIO
+
+```
++---------------------------------------------------------------+
+|  Quest Description                                            |
++---------------------------------------------------------------+
+|  This repository showcases my interactive, web-based platform |
+|  designed to highlight my projects, skills, and professional  |
+|  experience.                                                  |
++---------------------------------------------------------------+
+```
+
+#### 🛡️ KEY FEATURES (PERKS)
+* 🖥️ **Interactive project showcase** — Cool animations and details
+* 📊 **Detailed skill breakdown** — Visual spells and level list
+* 📬 **Contact integration** — Reach the sorcerer directly
+* 📱 **Responsive design** — Scales automatically for mobile and desktop screens
+
+#### ⚙️ HOW TO DEPLOY (INSTALLATION)
+```bash
+# Clone the magic scroll
+git clone https://github.com/AndreasNababan/AndreasNababan.git
+
+# Enter the chamber
+cd AndreasNababan
+
+# Launch the portfolio in your browser
+double-click index.html
+```
+
+<p align="center">
+  <b>📜 License:</b> MIT License
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
 ## 🎒 SKILLS & SPELLBOOK (BLOCK STYLE)
 
 #### ⚡ CODING SPELLS (LANGUAGES)
