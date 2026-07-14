@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ANDREAS%20NABABAN&fontSize=38&fontColor=50fa7b&animation=twinkling&fontAlignY=32&desc=%E2%9E%A4%20LEVEL%2021%20CAT%20SORCERER%20%7C%208-BIT%20DEVELOPER&descSize=14&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ANDREAS%20NABABAN&fontSize=38&fontColor=50fa7b&animation" width="100%"/>
 </p>
 
 
 <p
       <td width="40%" style="border: none; padding: 15px; text-align: center; vertical-align: middle;">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl6ZmxnMm82aGN5MDZ1MTA3MWphbmd0MTFocWc1NWFpaG1jcnIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" alt="Winking Pixel Cat" width="140">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl6ZmxnMm82aGN5MDZ1MTA3MWphbmd0MTFocWc1NWFpaG1jcnIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/33OrjzUFwkwEg/giphy.gif" alt="Winking Pixel Cat" width="180">
 </p>
